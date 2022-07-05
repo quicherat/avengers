@@ -4,6 +4,12 @@
 * Black Widow
 * Capitán America
 * Falcon
+* Spider Woman
+* Thor
+* Vision
+* Wasp
+* Antman
+* Nick Fury
 * Hank Pym
 * Hawkeye
 * Hulk
@@ -11,9 +17,4 @@
 * Luke Cage
 * QuickSilver
 * Scarlet Witch
-* Spider Woman
-* Thor
-* Vision
-* Wasp
-* Antman
-* Nick Fury
+
